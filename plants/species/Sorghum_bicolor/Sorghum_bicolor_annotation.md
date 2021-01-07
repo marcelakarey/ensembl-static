@@ -1,7 +1,7 @@
 ### Annotation
 
 This browser presents data from the v3.0.1 assembly and v3.1.1 gene set
-(March 2007). Gene prediction is an improved process based upon
+(March 2017). Gene prediction is an improved process based upon
 resources used in original v1.0 release (Sbi1 assembly and Sbi1.4 gene
 set) with new geneAtlas RNA-seq data. Read more at
 [Phytozome](https://phytozome.jgi.doe.gov/pz/portal.html#!info?alias=Org_Sbicolor).
